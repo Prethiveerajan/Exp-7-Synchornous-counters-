@@ -103,11 +103,13 @@ endmodule
 
 ### UP COUNTER
 
-![output](d1.png)
+![d1](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/c01e04d3-fa18-4b35-8510-ca6d000b5184)
+
 
 ### DOWN COUNTER
 
-![output](d2.png)
+![d2](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/d1f597c6-2b8b-46c6-b3d1-e0b718fa8298)
+
 
 
 
@@ -115,23 +117,26 @@ endmodule
 
 ### UP COUNTER
 
-![output](d3.png)
+![d3](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/ef54e8ac-5121-4646-a0a3-16880b2c6c74)
+
 
 
 ### DOWN COUNTER
 
-![output](d4.png)
+![d4](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/decfe8dd-4d6b-4e76-b9f4-c311227b70a9)
+
 
 ## TRUTH TABLE 
 
 ### UP COUNTER
 
-![output](d5.jpg)
+![d5](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/0ddad1cf-d043-4b36-875d-c8d4aae4316c)
+
 
 
 ### DOWN COUNTER
+![d6](https://github.com/Prethiveerajan/Exp-7-Synchornous-counters-/assets/94233064/943a4920-9570-496a-94a7-c4ca8b1b3e45)
 
-![output](d6.jpg)
 
 ## RESULTS 
 
